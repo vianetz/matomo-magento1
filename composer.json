@@ -2,7 +2,7 @@
   "name": "vianetz/matomo-magento1",
   "type": "magento-module",
   "license": "GPL-3.0-or-later",
-  "description": "A Magento 1 extension that allows you to get ecommerce transaction data into Matomo analytics.",
+  "description": "A Magento 1 Extension that allows you to get ecommerce transaction data into Matomo analytics.",
   "require": {
     "php": "^7.4 || ^8.0"
   },
